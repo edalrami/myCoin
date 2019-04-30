@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'myCoin',         # How you named your package folder (MyLib)
   packages = ['myCoin'],   # Chose the same as "name"
-  version = '0.1',      # Start with a small number and increase it with every change you make
+  version = '0.3',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'HW assignment for software methods course',   # Give a short description about your library
   author = 'Edwin Ramirez',                   # Type in your name
